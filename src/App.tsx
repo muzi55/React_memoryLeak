@@ -26,8 +26,6 @@ function App() {
       <h2>홈</h2>
       <p>홈 페이지입니다.</p>
       <p>마우스 X, Y 좌표 {`${clientXY[0]}, ${clientXY[1]}`}</p>
-
-      <button> 3초뒤 알럿창</button>
     </>
   );
 }
